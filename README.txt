@@ -1,0 +1,2 @@
+- Go into top-chef/app and run "node server.js" to run the server
+- Go into top-chef/app/my-app and run "npm start run" to run the react page

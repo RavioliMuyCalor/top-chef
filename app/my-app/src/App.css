@@ -1,0 +1,87 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.border {
+    background-color: lightgrey;
+   border: 5px solid #333333;
+    width: 400px;
+    padding: 25px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+
+.restaurant_title {
+  color: #333333;
+  width: 400px;
+  padding: 2px;
+}
+
+.sale_title {
+  color: white;
+  background-color: #333333;
+  width: 420px;
+   padding: 5px;
+}
+
+.sale_details_div {
+  color : #333333;
+  background-color: white;
+  width: 415px;
+  position : relative;
+  top: -20px;
+  padding : 5px;
+}
+
+.update_button {
+  position : fixed;
+  border-radius: 4px;
+  left : 5px;
+  top:10px;
+
+  background-color: #333333; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.update_button:hover {
+    background-color: white;
+    border: 2px solid #333333;
+    color: #333333;
+}

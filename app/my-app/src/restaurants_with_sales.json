@@ -1,0 +1,237 @@
+[
+    {
+        "id": "205737",
+        "title": "Le Violon d'Ingres - Christian Constant",
+        "postal_code": "75007",
+        "sales": [
+            {
+                "title": "Menu \"Prestige\"",
+                "details": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+                "discount_amount": 0
+            }
+        ]
+    },
+    {
+        "id": "2828",
+        "title": "Le Chiberta - Stéphane Laruelle - Guy Savoy",
+        "postal_code": "75008",
+        "sales": [
+            {
+                "title": "Menu Découverte 110€",
+                "details": "Prix par personne.",
+                "discount_amount": 0
+            }
+        ]
+    },
+    {
+        "id": "310829",
+        "title": "Dominique Bouchet",
+        "postal_code": "75008",
+        "sales": [
+            {
+                "title": "-20% on « MENU AVEC SAKE », or 120,00 € instead of 150,00 €!",
+                "discount_amount": 20
+            }
+        ]
+    },
+    {
+        "id": "26201",
+        "title": "Restaurant Auguste - Gaël Orieux",
+        "postal_code": "75007",
+        "sales": [
+            {
+                "title": "Gourmand Menu 118€ All inclusive",
+                "details": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+                "discount_amount": 0
+            }
+        ]
+    },
+    {
+        "id": "12900",
+        "title": "Pierre Orsi",
+        "postal_code": "69006",
+        "sales": [
+            {
+                "title": "Menu Mardis Gourmands 150€",
+                "details": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+                "discount_amount": 0
+            }
+        ]
+    },
+    {
+        "id": "9228",
+        "title": "Le Baudelaire - Hôtel Le Burgundy Paris",
+        "postal_code": "75001",
+        "sales": [
+            {
+                "title": "-20% off the \"à la carte\" menu!",
+                "details": "Set menus and drinks not included",
+                "discount_amount": 20
+            },
+            {
+                "title": "Menu Gourmands 130€",
+                "details": "Prix par personne.",
+                "discount_amount": 0
+            }
+        ]
+    },
+    {
+        "id": "25896",
+        "title": "Benoit - Alain Ducasse",
+        "postal_code": "75004",
+        "sales": [
+            {
+                "title": "Menu Mardis Gourmands 125€",
+                "details": "Prix par personne.",
+                "discount_amount": 0
+            }
+        ]
+    },
+    {
+        "id": "682",
+        "title": "L'Oasis - Stéphane Raimbault",
+        "postal_code": "06210",
+        "sales": [
+            {
+                "title": "-20% off the \"à la carte\" menu!",
+                "details": "Set menus and drinks not included. Available on the booked timeslot.",
+                "discount_amount": 20
+            },
+            {
+                "title": "Menu Mardis Gourmands 125€",
+                "details": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+                "discount_amount": 0
+            }
+        ]
+    },
+    {
+        "id": "122",
+        "title": "La Grande Cascade - Frédéric Robert",
+        "postal_code": "75016",
+        "sales": [
+            {
+                "title": "-40% off the \"à la carte\" menu",
+                "details": "Conditions : Set Menu not included, Drinks not included. Minimums apply Start + Main or Main + Desert minimum per person. \nValid : every day lunch and dinner.",
+                "discount_amount": 40
+            }
+        ]
+    },
+    {
+        "id": "60777",
+        "title": "1912",
+        "postal_code": "14360",
+        "sales": [
+            {
+                "title": "20% off food",
+                "details": "Set menu and drinks not included. Valid for all orders of starter + a main or a main + dessert as a minimum per person.",
+                "discount_amount": 20
+            }
+        ]
+    },
+    {
+        "id": "250",
+        "title": "Lasserre",
+        "postal_code": "75008",
+        "sales": [
+            {
+                "title": "Menu Mardis Gourmands 150€",
+                "details": "Prix par personne.",
+                "discount_amount": 0
+            }
+        ]
+    },
+    {
+        "id": "3485",
+        "title": "Manoir de la Boulaie - Laurent Saudeau",
+        "postal_code": "44115",
+        "sales": [
+            {
+                "title": "-20% off the \"à la carte\" menu",
+                "details": "Set menus and drinks not included",
+                "discount_amount": 20
+            }
+        ]
+    },
+    {
+        "id": "405",
+        "title": "Maison Rostang",
+        "postal_code": "75017",
+        "sales": [
+            {
+                "title": "Menu Prestige 115€ Tout Compris, le midi !",
+                "details": "Prix par personne. Un verre de vin par Plat. \nDu mardi au vendredi, le midi.",
+                "discount_amount": 0
+            },
+            {
+                "title": "Menu Prestige 195€ Tout Compris, le soir !",
+                "details": "Prix par personne. Un verre de vin par plat. \nDu lundi au vendredi, le soir.",
+                "discount_amount": 0
+            }
+        ]
+    },
+    {
+        "id": "2185",
+        "title": "Antoine - Thibault Sombardier",
+        "postal_code": "75116",
+        "sales": [
+            {
+                "title": "Menu Mardis Gourmands 109€",
+                "details": "Prix par personne.",
+                "discount_amount": 0
+            }
+        ]
+    },
+    {
+        "id": "275457",
+        "title": "Emporio Armani Ristorante",
+        "postal_code": "75006",
+        "sales": [
+            {
+                "title": "Prestige Menu 79€",
+                "details": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+                "discount_amount": 0
+            }
+        ]
+    },
+    {
+        "id": "221",
+        "title": "Le France",
+        "postal_code": "25130",
+        "sales": [
+            {
+                "title": "-20% off the \"à la carte\" menu!",
+                "details": "Set menus and drinks not included. Available on the booked timeslot.",
+                "discount_amount": 20
+            }
+        ]
+    },
+    {
+        "id": "5020",
+        "title": "La Fourchette du Printemps - Nicolas Mouton",
+        "postal_code": "75017",
+        "sales": [
+            {
+                "title": "Menu Gourmands 79€",
+                "details": "Prix par personne.",
+                "discount_amount": 0
+            }
+        ]
+    },
+    {
+        "id": "310489",
+        "title": "Le Saint-Laurent",
+        "postal_code": "75008",
+        "sales": [
+            {
+                "title": "-30% off the \"à la carte\" menu!",
+                "details": "Set menus and drinks not included. Available on the booked timeslot.",
+                "discount_amount": 30
+            },
+            {
+                "title": "-20% off the \"à la carte\" menu!",
+                "details": "Set menus and drinks not included. Available on the booked timeslot.",
+                "discount_amount": 20
+            }
+        ]
+    }
+]
